@@ -1,1 +1,1 @@
-this is a readme file for python
+I am trying to play with the code rn so just wait
